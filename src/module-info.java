@@ -1,0 +1,3 @@
+module SeleniumTest {
+	requires okio;
+}
